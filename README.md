@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 mail:
 <a href="mailto:pranavjejurkar5019@gmail.com">pranav_jejurkar5019@gmail.com</a></header><br>
 linkdin:
-<a href="www.linkedin.com/in/pranav-jejurkar-377a32222">www.linkedin.com/in/pranav-jejurkar-377a32222</a></header><br>
+<a href="www.linkedin.com/in/pranav-jejurkar-Pranav5019">www.linkedin.com/in/pranav-jejurkar-Pranav5019</a></header><br>
 github:
 <a href="https://github.com/PranavJejurkar">https://github.com/PranavJejurkar</a></header>
 
