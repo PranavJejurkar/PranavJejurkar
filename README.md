@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <h1>Pranav Jejurkar</h1>
 <h3>I am currently working on Web Application</h3>
 <h3>konwledges and skill: java, python c++, web aaplication, Artificial intelligence, mysql</h3>
-<a href="mailto:pranavjejurkar5019@gmail.com">pranav_jejurkar5019@gmail.com</a></header>
+mail:
+<a href="mailto:pranavjejurkar5019@gmail.com">pranav_jejurkar5019@gmail.com</a></header><br>
+linkdin:
 <a href="www.linkedin.com/in/pranav-jejurkar-377a32222">www.linkedin.com/in/pranav-jejurkar-377a32222</a></header>
-
+github:
+<a href="https://github.com/PranavJejurkar">https://github.com/PranavJejurkar</a></header>
 
 
