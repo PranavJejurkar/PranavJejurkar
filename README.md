@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Reading 
---><img align="right" width=400 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2U9UIqcoa53RKCOqFfmicJaQ_QUZLpuXht74H_4Fokv_9DghBEC8ugALl7rGcgcIIagI&usqp=CAU" >
+--><img align="right" width=400 alt="coding" src="https://previews.123rf.com/images/monsitj/monsitj1905/monsitj190500011/124758009-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg" >
 
